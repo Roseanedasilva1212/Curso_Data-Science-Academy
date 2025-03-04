@@ -5,7 +5,7 @@
 
 Bem-vindo ao curso de Fundamentos de Linguagem Python para Análise de Dados e Data Science! Este repositório contém todos os materiais do curso, incluindo scripts de exemplo, datasets e notebooks do Jupyter.
 
-##🚀 Objetivo do Curso
+## 🚀 Objetivo do Curso
 
 O objetivo deste curso é fornecer uma introdução prática e abrangente à linguagem de programação Python e suas aplicações em Análise de Dados e Data Science. Ao final do curso, você estará apto a:
 
