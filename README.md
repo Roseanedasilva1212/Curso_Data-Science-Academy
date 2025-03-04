@@ -14,7 +14,7 @@ Este é um curso para iniciantes, para quem deseja começar do mais absoluto zer
 2. Nível Básico
 3. Nível Intermediário
 
-Para cada nível você poderá avaliar seu conhecimento e obter um certificado de conclusão. Uma excelente forma de você avaliar sua evolução no conhecimento da linguagem.
+Para cada nível eu você poderei avaliar meu conhecimento e obter um certificado de conclusão. Uma excelente forma de você avaliar sua evolução no conhecimento da linguagem.
 
 ## 🚀Exemplos de alguns tópicos do curso:
 
