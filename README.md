@@ -39,11 +39,6 @@ A Formação é composta de 6 cursos principais:
 6. Storytelling, Dashboards e Técnicas de Apresentação Para Cientistas de Dados
 7. ![Captura de tela 2025-03-04 191640](https://github.com/user-attachments/assets/614c0a36-f7d2-46ea-b13b-e5dd3acd7f5e)
 
-Trilha 3
-
-Neste  capítulo  vamos  preparar  o  ambiente  trabalho,  instalar  o  Anaconda  Python, conhecer um pouco sobre a linguagem e ainda usar o ChatGP
-
-![image](https://github.com/user-attachments/assets/e614b733-c11b-4861-86ac-a726f0fdb134)
 
 ## Projetos
 
