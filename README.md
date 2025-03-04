@@ -1,7 +1,7 @@
 # 🚀 Curso_Data-Science-Academy
 
 
-# Fundamentos de Linguagem Python para Análise de Dados e Data Science
+Fundamentos de Linguagem Python para Análise de Dados e Data Science
 
 Bem-vindo ao curso de Fundamentos de Linguagem Python para Análise de Dados e Data Science! Este repositório contém todos os materiais do curso, incluindo scripts de exemplo, datasets e notebooks do Jupyter.
 
