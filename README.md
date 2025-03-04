@@ -13,31 +13,7 @@ O objetivo deste curso é fornecer uma introdução prática e abrangente à lin
 - Manipular e visualizar dados usando bibliotecas como Pandas e Matplotlib.
 - Realizar análises estatísticas e aplicar algoritmos de Machine Learning usando Scikit-learn.
 
-## 🚀Estrutura do Curso
-
-O curso é dividido nos seguintes módulos:
-
-1. **Introdução ao Python**
-    - Sintaxe básica
-    - Tipos de dados e variáveis
-    - Estruturas de controle de fluxo (condicionais e loops)
-    - Funções e módulos
-
-2. **Manipulação de Dados com Pandas**
-    - Importação e exportação de dados
-    - Limpeza e transformação de dados
-    - Análise exploratória de dados (EDA)
-
-3. **Visualização de Dados com Matplotlib e Seaborn**
-    - Criação de gráficos básicos e avançados
-    - Customização de gráficos
-    - Análise visual de dados
-
-4. **Introdução ao Machine Learning com Scikit-learn**
-    - Conceitos básicos de Machine Learning
-    - Regressão linear e logística
-    - Árvores de decisão e Random Forest
-    - Avaliação de modelos
+## 🚀Exemplos de alguns tópicos do curso:
 
 
 ## Trilha 1
