@@ -53,4 +53,12 @@ A Formação é composta de 4 cursos principais:
 
 ## Trilha 2
 
+A Formação é composta de 6 cursos principais:
+1. Matemática e Estatística Aplicada Para Data Science, Machine Learning e IA
+2. Data Science Para Análise Multivariada de Dados
+3. Business Analytics e Machine Learning Para Projetos de Data Science
+4. Modelagem de Séries Temporais e Real-Time Analytics com Apache Spark e Databricks
+5. Cloud Computing Data Science (com Amazon SageMaker e Microsoft Fabric)
+6. Storytelling, Dashboards e Técnicas de Apresentação Para Cientistas de Dados
+7. ![Captura de tela 2025-03-04 191640](https://github.com/user-attachments/assets/614c0a36-f7d2-46ea-b13b-e5dd3acd7f5e)
 
