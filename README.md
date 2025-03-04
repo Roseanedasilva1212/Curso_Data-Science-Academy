@@ -1,7 +1,7 @@
 # 🚀 Curso_Data-Science-Academy
 
 
-Fundamentos de Linguagem Python para Análise de Dados e Data Science
+## Fundamentos de Linguagem Python para Análise de Dados e Data Science
 
 Bem-vindo ao curso de Fundamentos de Linguagem Python para Análise de Dados e Data Science! Este repositório contém todos os materiais do curso, incluindo scripts de exemplo, datasets e notebooks do Jupyter.
 
@@ -10,9 +10,9 @@ Bem-vindo ao curso de Fundamentos de Linguagem Python para Análise de Dados e D
 Este é um curso para iniciantes, para quem deseja começar do mais absoluto zero. O curso está dividido em 3 partes:
 
 
-Nível Introdutório
-Nível Básico
-Nível Intermediário
+1.Nível Introdutório
+2.Nível Básico
+3.Nível Intermediário
 
 Para cada nível você poderá avaliar seu conhecimento e obter um certificado de conclusão. Uma excelente forma de você avaliar sua evolução no conhecimento da linguagem.
 
