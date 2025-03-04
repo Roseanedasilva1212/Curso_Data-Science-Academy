@@ -15,8 +15,7 @@ O objetivo deste curso é fornecer uma introdução prática e abrangente à lin
 
 ## 🚀Exemplos de alguns tópicos do curso:
 
-
-## Trilha 1
+Trilha 1
 
 A Formação é composta de 4 cursos principais:
 1. SQL Para Análise de Dados e Data Science
@@ -26,8 +25,7 @@ A Formação é composta de 4 cursos principais:
 5. [Captura de tela 2025-03-04 190847](https://github.com/user-attachments/assets/ced385fa-6854-490b-b8f5-34024e488c48)
 
 
-
-## Trilha 2
+ Trilha 2
 
 A Formação é composta de 6 cursos principais:
 1. Matemática e Estatística Aplicada Para Data Science, Machine Learning e IA
@@ -38,7 +36,7 @@ A Formação é composta de 6 cursos principais:
 6. Storytelling, Dashboards e Técnicas de Apresentação Para Cientistas de Dados
 7. ![Captura de tela 2025-03-04 191640](https://github.com/user-attachments/assets/614c0a36-f7d2-46ea-b13b-e5dd3acd7f5e)
 
-## Trilha 3
+Trilha 3
 
 Neste  capítulo  vamos  preparar  o  ambiente  trabalho,  instalar  o  Anaconda  Python, conhecer um pouco sobre a linguagem e ainda usar o ChatGP
 
