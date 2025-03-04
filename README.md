@@ -45,4 +45,11 @@ Neste  capítulo  vamos  preparar  o  ambiente  trabalho,  instalar  o  Anaconda
 
 ![image](https://github.com/user-attachments/assets/e614b733-c11b-4861-86ac-a726f0fdb134)
 
+## Projetos
+
+Este é um curso gratuito, incluindo o certificado de conclusão, e no padrão de qualidade Data Science Academy.
+
+Somente a DSA, o maior portal de Ciência de Dados da América Latina, poderia trazer algo assim para você.
+
+Vamos estudar !
 
